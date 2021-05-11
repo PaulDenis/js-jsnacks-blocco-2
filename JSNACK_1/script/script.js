@@ -30,7 +30,7 @@ var bikes = [
         name: "Kawasaki-1080",
         weight: 27,
     }
-]
+];
 
 // Stampare a schermo la bici con peso minore.
 var lightBike = bikes[0]; //Inizializzo la variabile con il valore della bici in posizione 0.
