@@ -4,6 +4,7 @@ var parole = ["Ciao", "Carlo", "Pirata", "Console", "GTA", "Afro", "Tiwtch", "Fo
 
 var subString = between(numeri, 3, 8);
 var subParole = between(parole, 4, 5);
+var subParole2 = between(parole, 6, 2);
 
 console.log(subString);
 console.log(subParole);
