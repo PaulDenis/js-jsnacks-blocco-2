@@ -12,7 +12,7 @@ var bikes = [
     },
     {
         name: "Morningstart",
-        weight: 26,
+        weight: 23,
     },
     {
         name: "Karisma",
@@ -34,7 +34,7 @@ var bikes = [
 
 // Stampare a schermo la bici con peso minore.
 var lightBike = bikes[0]; //Inizializzo la variabile con il valore della bici in posizione 0.
-console.log(lightBike);
+// console.log(lightBike);
 
 for (var i = 1; i < bikes.length; i++) {
     // Comparo ogni bici a quella precedente, salvando nella variabile qella più leggera di volta in volta.
